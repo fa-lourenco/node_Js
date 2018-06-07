@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-weatherapp",
+  "version": "0.0.0",
+  "description": "Simple Weather App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fa-lourenco",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "yargs": "^11.0.0"
+  }
+}

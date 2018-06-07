@@ -1,0 +1,29 @@
+html { 
+    background: url(images/img_girl.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.bold{
+    font-weight:bold;  
+  }
+
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.nextDayContainer{
+    max-height:300px;
+
+
+}
